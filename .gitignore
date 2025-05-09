@@ -1,0 +1,16 @@
+# 가상환경 폴더
+venv/
+
+# Python bytecode 파일
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook 체크포인트
+.ipynb_checkpoints/
+
+# VS Code 설정 파일
+.vscode/
+
+# MacOS 관련 불필요한 파일
+.DS_Store
