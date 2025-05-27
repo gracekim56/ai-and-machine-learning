@@ -6,3 +6,6 @@
   - [First Model](./01-first-model.ipynb)
 2. Introduction to Computer Vision
   - [Fashion MNIST](./02-fashion-mnist.ipynb)
+
+3. Going Beyond the Basics:Detecting Features in Images
+  - [Uploading 03-beyond-the-basics.ipynb…]()
